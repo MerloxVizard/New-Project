@@ -1,0 +1,43 @@
+*{
+    list-style: none;
+}
+
+body{
+    height: 400px;
+    background-size: cover;
+    background-image: url("https://i.ibb.co/48ZKtrr/Fond-Miniatura.png");
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+h4{
+    color: #ffffff;
+}
+
+.Titulo{
+    color: #ffffff;
+    text-align: center;
+}
+
+.Descripcion{
+    color: #ffffff;
+    text-align: center;
+}
+
+p{
+    color: #ffffff;
+}
+
+li{
+    color: #ffffff;
+}
+
+div{
+    padding: 10px;
+    border: 10px;
+    width: 60%;
+    height: 100%;
+    outline: 5px;
+    position: relative;
+    left: 430px;
+}
